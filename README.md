@@ -13,7 +13,7 @@
 
 ### 🧭 About me
 - 🔭 **Currently:** building for Liquid Galaxy Project and preparing for GSoC 2027
-- 🧠 **Interested in:** medical imaging, computer vision, ML infrastructure & GPU systems
+- 🧠 **Interested in:** space tech, computer vision, ML infrastructure & GPU systems
 - 🛰️ **Smart India Hackathon 2026:** built SatQuery-AI and Retina Rescue
 - 📫 **Reach me:** [LinkedIn](<your-linkedin-url>) · <your-email>
 
