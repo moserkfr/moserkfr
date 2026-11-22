@@ -12,7 +12,7 @@
 ---
 
 ### 🧭 About me
-- 🔭 **Currently:** contributing to open-source neuroscience tools (INCF) and preparing for GSoC 2027
+- 🔭 **Currently:** building for Liquid Galaxy Project and preparing for GSoC 2027
 - 🧠 **Interested in:** medical imaging, computer vision, ML infrastructure & GPU systems
 - 🛰️ **Smart India Hackathon 2026:** built SatQuery-AI and Retina Rescue
 - 📫 **Reach me:** [LinkedIn](<your-linkedin-url>) · <your-email>
