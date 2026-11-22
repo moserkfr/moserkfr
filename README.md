@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manosh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Computer+Vision+%26+ML+Systems;Backend+Engineering;Open-source+neuroscience+tools" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=Computer+Vision+%26+ML+Systems;Backend+Engineering" alt="Typing intro" />
 </p>
 
 <p align="center">
